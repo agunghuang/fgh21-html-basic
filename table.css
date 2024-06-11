@@ -1,0 +1,23 @@
+table {
+    width: 100%;
+  }
+  
+  th:nth-child(even) {
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+    background-color: lightgreen;
+    color: white;
+  }
+ 
+  td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+  }
+  
+  th {
+    background-color: navy;
+    color: white;
+  }
+  
